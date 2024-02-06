@@ -23,7 +23,7 @@ This project is built on the Spring Boot framework, providing a robust and effic
 #### Spring Data JPA: 
 Utilizes Spring Data JPA for seamless integration with the database, simplifying the implementation of data access and persistence.
 
-#### RESTful AP:
+#### RESTful API:
 The application follows RESTful principles, providing a clear and standardized way to perform CRUD operations via HTTP methods.
 
 #### SQL Database:
